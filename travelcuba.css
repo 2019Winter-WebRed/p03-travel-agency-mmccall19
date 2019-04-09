@@ -1,0 +1,30 @@
+/*
+*Mackenzie
+*April 9
+*Panda Travel Agency
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Boddy attributes here */
+
+body {
+    background-color: #EBF5FB;
+}
+
+/* this gives the table colors and collapses the border */
+table { border-collapse: collapse; border: 3px solid orange; background-color: #FCF3CF}
+
+/* this section gives each heading a color */
+h1 {color: orange}
+h2 {color: orange;} 
+h3 {color: orange;}
+h4 {color: orange;}
+h5 {color: orange;}
+
+/* this changes the width and height of one image and floats it right */
+#cubamap { width: 400px; height: 300px; float: right; }
